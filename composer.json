@@ -1,0 +1,43 @@
+{
+    "name": "illuma-law/scout-lunr",
+    "description": "Laravel Scout Engine for Lunr.js via Cloudflare Workers + KV",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^8.2",
+        "laravel/scout": "^10.0",
+        "illuminate/http": "^11.0||^12.0||^13.0",
+        "illuminate/support": "^11.0||^12.0||^13.0",
+        "spatie/laravel-package-tools": "^1.19"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^9.0||^10.0",
+        "pestphp/pest": "^3.0||^4.0",
+        "pestphp/pest-plugin-laravel": "^3.0||^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "IllumaLaw\\ScoutLunr\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "IllumaLaw\\ScoutLunr\\LunrScoutServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
