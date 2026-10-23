@@ -8,7 +8,7 @@ package contains the Laravel engine; deploy and configure the Worker separately.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Requires PHP 8.2+, Laravel 11, 12, or 13, and Laravel Scout 10.
+Requires PHP 8.2+, Laravel 12 or 13, and Laravel Scout 10.
 
 ## Install
 
