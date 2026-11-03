@@ -13,7 +13,7 @@ Requires PHP 8.2+, Laravel 12 or 13, and Laravel Scout 10.
 ## Install
 
 ```bash
-composer require illuma-law/scout-lunr
+composer require eloquage/scout-lunr
 php artisan vendor:publish --tag=scout-lunr-config
 ```
 

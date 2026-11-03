@@ -7,7 +7,7 @@ metadata:
 
 # Writing and documentation
 
-Write documentation for `illuma-law/scout-lunr` (Laravel Scout Engine for Lunr.js via Cloudflare Workers + KV) that lets the intended reader complete a concrete task.
+Write documentation for `eloquage/scout-lunr` (Laravel Scout Engine for Lunr.js via Cloudflare Workers + KV) that lets the intended reader complete a concrete task.
 
 ## Source and structure
 

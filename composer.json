@@ -1,5 +1,5 @@
 {
-    "name": "illuma-law/scout-lunr",
+    "name": "eloquage/scout-lunr",
     "description": "Laravel Scout Engine for Lunr.js via Cloudflare Workers + KV",
     "type": "library",
     "license": "MIT",

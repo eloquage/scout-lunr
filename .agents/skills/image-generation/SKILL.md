@@ -7,7 +7,7 @@ metadata:
 
 # Image generation
 
-Use for visual assets associated with `illuma-law/scout-lunr` (Laravel Scout Engine for Lunr.js via Cloudflare Workers + KV), such as a README banner, concept illustration, or workflow diagram rendered as an image.
+Use for visual assets associated with `eloquage/scout-lunr` (Laravel Scout Engine for Lunr.js via Cloudflare Workers + KV), such as a README banner, concept illustration, or workflow diagram rendered as an image.
 
 - First decide whether a visual helps. Prefer Markdown, Mermaid, or editable SVG for diagrams, logos, and interface-like graphics; use raster generation for illustrative or photographic assets.
 - Keep the image tied to the package's real purpose. Do not invent features, UI screens, logos, endorsements, or brand elements. Use user-provided brand assets when available.
