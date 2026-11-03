@@ -7,7 +7,7 @@ metadata:
 
 # Laravel package development
 
-Use this skill when changing this Composer package: `illuma-law/scout-lunr` — Laravel Scout Engine for Lunr.js via Cloudflare Workers + KV
+Use this skill when changing this Composer package: `eloquage/scout-lunr` — Laravel Scout Engine for Lunr.js via Cloudflare Workers + KV
 
 ## Package context
 

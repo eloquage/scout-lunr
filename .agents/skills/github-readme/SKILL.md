@@ -7,7 +7,7 @@ metadata:
 
 # GitHub README
 
-For `illuma-law/scout-lunr` (Laravel Scout Engine for Lunr.js via Cloudflare Workers + KV), make the README useful to a developer deciding whether to install the package and then trying it in a real application.
+For `eloquage/scout-lunr` (Laravel Scout Engine for Lunr.js via Cloudflare Workers + KV), make the README useful to a developer deciding whether to install the package and then trying it in a real application.
 
 ## Ground every claim
 
